@@ -1,0 +1,42 @@
+*{
+    width:100%;
+    padding:0;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    width:60%;
+    margin:10% 20%;
+}
+.set{
+    border-bottom: 2px solid black;
+    padding:20px;
+    margin-bottom: 25px;
+}
+p span, form label{
+    color:rgb(126, 35, 126);
+    
+}
+p, form label, .button, input{
+    font-weight: bolder;
+    font-size: 25px;
+}
+h1{
+    font-weight: bolder;
+    margin-bottom: 25px;
+}
+input, .button{
+    display: inline-block;
+    width:30%;
+    height:50px;
+    border-radius:8px;
+    margin:10px 30px;
+}
+label{
+    padding-left:20%;
+}
+.button{
+    background: rgb(118, 216, 118);
+    margin-left:45%;
+    text-align: center;
+}
